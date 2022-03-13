@@ -1,7 +1,7 @@
 {
-  "name": "alphabot-md",
+  "name": "X1Botz",
   "version": "1.0.0",
-  "description": "Simple whatsapp bot with multi device.",
+  "description": "Anjay Alok.",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "rashidsiregar28",
+  "author": "Indra",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
